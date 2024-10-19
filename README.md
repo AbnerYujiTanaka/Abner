@@ -6,8 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div>
-         <img src="https://s2-quem.glbimg.com/BmiEjgYldbMUIT_AI74F68YTl3c=/0x0:1400x1016/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_b0f0e84207c948ab8b8777be5a6a4395/internal_photos/bs/2023/q/1/YtkV0JRUu0E5poKN7c6w/jungkook.jpg" alt="Foto Perfil">  
+    <div>  
          <h1><Strong>Abner Yuji Tanaka</Strong></h1>
          <h3>Brasileiro, Solteiro, 18 anos</h3>
          <h2><strong>Jovem Aprendiz</strong></h2>
