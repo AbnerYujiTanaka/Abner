@@ -9,7 +9,7 @@
     <div>  
          <h1><Strong>Abner Yuji Tanaka</Strong></h1>
          <h3>Brasileiro, Solteiro, 18 anos</h3>
-         <h2><strong>Jovem Aprendiz</strong></h2>
+         <h2><strong>Estágio</strong></h2>
         <hr class="linha">
          <br>
          <h2><Strong>Objetivo</Strong></h2>
