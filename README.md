@@ -13,16 +13,26 @@
         <hr class="linha">
          <br>
          <h2><Strong>Objetivo</Strong></h2>
-         <p>Atuar como jovem aprendiz técnico em soluções digitais na BOSCH 
-         <br>como primeira experiência e contribuir com o crescimento da empresa
-         <br>buscando desenvolvimento na carreira profissional.</p>
+         <p>Atuar como estagiário na CI&T como primeira experiência e contribuir
+            com o crescimento da empresa buscando desenvolvimento na carreira
+            profissional.
+         </p>
         <br>
          <h2><strong>Formação acadêmica</strong></h2>
          <tittle><strong>Ensino Médio completo</strong></tittle>
            <ul>
-              <li>3° ano, E.E Culto à Ciência, Campinas/SP (2023)</li>
-              <li>2° ano, SESI-437 - Hortolândia/SP (2022)</li>
-              <li>1° ano, SESI-437 - Hortolândia/SP (2021)</li>
+               <li>Tecnólogo em Análise e Desenvolvimento de Sistemas –
+                  Cursando Matutino
+                  , FATEC, Americana/SP (2024-2027)
+               </li>
+               <li>Técnico em Desenvolvimento de Sistemas – Cursando Noturno
+                  , ETEC Bento Quirino, Campinas/SP (2024-2025)
+               </li>
+               <br>
+               <p>Ensino Médio - Completo:</p>
+               <li>3° ano, E.E Culto à Ciência, Campinas/SP (2023)</li>
+               <li>2° ano, SESI-437 - Hortolândia/SP (2022)</li>
+               <li>1° ano, SESI-437 - Hortolândia/SP (2021)</li>
            </ul>
             <br>
             <h2>Cursos</h2>
