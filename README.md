@@ -21,28 +21,26 @@
          <h2><strong>Formação acadêmica</strong></h2>
          <tittle><strong>Ensino Médio completo</strong></tittle>
            <ul>
-               <li>Tecnólogo em Análise e Desenvolvimento de Sistemas –
-                  Cursando Matutino
-                  , FATEC, Americana/SP (2024-2027)
-               </li>
-               <li>Técnico em Desenvolvimento de Sistemas – Cursando Noturno
-                  , ETEC Bento Quirino, Campinas/SP (2024-2025)
-               </li>
-               <br>
+               <li>Tecnólogo em Análise e Desenvolvimento de Sistemas – Cursando Matutino, FATEC, Americana/SP (2024-2027)</li>
+               <li>Técnico em Desenvolvimento de Sistemas – Cursando Noturno, ETEC Bento Quirino, Campinas/SP (2024-2025)</li>
+                <br>
                <p>Ensino Médio - Completo:</p>
-               <li>3° ano, E.E Culto à Ciência, Campinas/SP (2023)</li>
-               <li>2° ano, SESI-437 - Hortolândia/SP (2022)</li>
-               <li>1° ano, SESI-437 - Hortolândia/SP (2021)</li>
+                  <li>3° ano, E.E Culto à Ciência, Campinas/SP (2023)</li>
+                  <li>2° ano, SESI-437 - Hortolândia/SP (2022)</li>
+                  <li>1° ano, SESI-437 - Hortolândia/SP (2021)</li>
            </ul>
             <br>
             <h2>Cursos</h2>
             <ul>
+              <li>Técnico em Desenvolvimento de Sistemas – Cursando Noturno, ETEC Bento Quirino, Campinas/SP (2024-2025)</li>
               <li>Curso Técnico de Música - Conservatório Carlos Gomes, Campinas/SP (2023-2024)</li>
             </ul>
             <br>
             <h2>Hablididades</h2>
             <ul>
                 <li>Básico em Pacote Office (Word, Power Point e Excel)</li>
+                <li>Linguagens de Programação: JavaScript;</li>
+                <li>Desenvolvimento Web: HTML, CSS e React;</li>
             </ul>
     </div>
     <div class="divisoria">
