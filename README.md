@@ -13,9 +13,13 @@
         <hr class="linha">
          <br>
          <h2><Strong>Objetivo</Strong></h2>
-         <p>Atuar como estagiário na CI&T como primeira experiência e contribuir
-            com o crescimento da empresa buscando desenvolvimento na carreira
-            profissional.
+         <p>
+            Sou estudante de Desenvolvimento de Sistemas (ETEC) e Análise e
+            Desenvolvimento de Sistemas (FATEC), com grande interesse na área
+            de back-end. Estou em busca de uma oportunidade de estágio para
+            aplicar meus conhecimentos em Node.js e continuar aprendendo na
+            prática, contribuindo com minha dedicação e vontade de crescer na
+            área de tecnologia.
          </p>
         <br>
          <h2><strong>Formação acadêmica</strong></h2>
@@ -38,9 +42,13 @@
             <br>
             <h2>Hablididades</h2>
             <ul>
-                <li>Básico em Pacote Office (Word, Power Point e Excel)</li>
-                <li>Linguagens de Programação: JavaScript;</li>
-                <li>Desenvolvimento Web: HTML, CSS e React;</li>
+                <li>Linguagens (Básico): JavaScript, Java, C, PHP.</li>
+                <li>Back-end: Node.js (básico), Express (básico).</li>
+                <li>APIs: Conhecimento básico em RESTful APIs (criação e consumo).</li>
+                <li>Banco de Dados: Noções básicas de SQL e MongoDB.</li>
+                <li>Front-end: HTML, CSS, React Native(básico).</li>
+                <li>Controle de Versão: GitHub (básico).</li>
+                <li>Ferramentas: VS Code, Terminal.</li>
             </ul>
     </div>
     <div class="divisoria">
