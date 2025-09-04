@@ -25,8 +25,8 @@
          <h2><strong>Formação acadêmica</strong></h2>
          <tittle><strong>Ensino Médio completo</strong></tittle>
            <ul>
-               <li>Tecnólogo em Análise e Desenvolvimento de Sistemas – Cursando Vespertino, FATEC, Campinas/SP (2024-2027)</li>
-               <li>Técnico em Desenvolvimento de Sistemas – Cursando Noturno, ETEC Bento Quirino, Campinas/SP (2024-2025)</li>
+               <li>Tecnólogo em Análise e Desenvolvimento de Sistemas – Cursando Matutino, FATEC, Campinas/SP (2024-2027)</li>
+               <li>Técnico em Desenvolvimento de Sistemas – Completo, ETEC Bento Quirino, Campinas/SP (2024-2025)</li>
                 <br>
                <p>Ensino Médio - Completo:</p>
                   <li>3° ano, E.E Culto à Ciência, Campinas/SP (2023)</li>
@@ -42,11 +42,11 @@
             <br>
             <h2>Hablididades</h2>
             <ul>
-                <li>Linguagens (Básico): JavaScript, Java, C, PHP.</li>
-                <li>Back-end: Node.js (básico), Express (básico).</li>
+                <li>Linguagens (Intermediário): JavaScript, Java, C, PHP.</li>
+                <li>Back-end: Node.js (intermediário), Express (básico).</li>
                 <li>APIs: Conhecimento básico em RESTful APIs (criação e consumo).</li>
                 <li>Banco de Dados: Noções básicas de SQL e MongoDB.</li>
-                <li>Front-end: HTML, CSS, React Native(básico).</li>
+                <li>Front-end: HTML, CSS, React Native(intermediário).</li>
                 <li>Controle de Versão: GitHub (básico).</li>
                 <li>Ferramentas: VS Code, Terminal.</li>
             </ul>
