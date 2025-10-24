@@ -23,7 +23,6 @@
          </p>
         <br>
          <h2><strong>Formação acadêmica</strong></h2>
-         <tittle><strong>Ensino Médio completo</strong></tittle>
            <ul>
                <li>Tecnólogo em Análise e Desenvolvimento de Sistemas – Cursando Matutino, FATEC, Campinas/SP (2024-2027)</li>
                <li>Técnico em Desenvolvimento de Sistemas – Completo, ETEC Bento Quirino, Campinas/SP (2024-2025)</li>
